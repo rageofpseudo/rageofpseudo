@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hi%20I'm%Pierre&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=500&section=header&text=Hi%20I'm%Pierre&fontSize=90)
