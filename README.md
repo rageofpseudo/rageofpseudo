@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=500&section=header&text=Hi%20I'm_Pierre&fontSize=90&animation=fadeIn&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=500&section=header&text=Hi&I'm&Pierre&fontSize=90&animation=fadeIn&descSize=30)
 
 
