@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/pierre-jouffroy-2428b8250/">
     <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/21203d5d-716c-471a-8cb0-c16f0c85de98" />
   </a>
-  <a href="https://www.instagram.com/pierrej974/">
+  <!-- <a href="https://www.instagram.com/pierrej974/">
     <img height="93" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
+  </a>-->
 </p>
 
 <p align="center">
